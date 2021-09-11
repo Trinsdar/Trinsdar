@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Trinsdar/Trinsdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### About me
+I'm 22 years old, and like coding mc mods on linux. I also like anime and survival type of games
