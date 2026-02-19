@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 
 ### About me
-I'm 22 years old, and like coding mc mods on linux. I also like anime and survival type of games
+I'm 26 years old, and like coding mc mods on linux. I also like anime and survival type of games
